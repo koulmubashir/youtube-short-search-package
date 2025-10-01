@@ -44,10 +44,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/youtube-short-search-package"
-Documentation = "https://github.com/yourusername/youtube-short-search-package#readme"
-Repository = "https://github.com/yourusername/youtube-short-search-package.git"
-"Bug Tracker" = "https://github.com/yourusername/youtube-short-search-package/issues"
+Homepage = "https://github.com/koulmubashir/youtube-short-search-package"
+Documentation = "https://github.com/koulmubashir/youtube-short-search-package#readme"
+Repository = "https://github.com/koulmubashir/youtube-short-search-package.git"
+"Bug Tracker" = "https://github.com/koulmubashir/youtube-short-search-package/issues"
 
 [tool.setuptools.packages.find]
 include = ["youtube_short_search*"]
